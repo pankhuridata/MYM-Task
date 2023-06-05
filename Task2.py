@@ -56,4 +56,4 @@ print(company_stats)
 
 df.info()
 
-#df.to_csv('Cleaned_Jobs.csv', index=False)
+df.to_csv('Cleaned_Jobs.csv', index=False)
