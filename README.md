@@ -1,4 +1,4 @@
-# MYM-Task
+# MYM-Tasks for Data Analyst Intern
 This assessment aims to assess your ability to work with data sets, perform data analysis, cleansing, and transformation, and derive meaningful insights from data. Please complete the following tasks:
 
 ## Task 1: Data Analysis and Insights Generation
